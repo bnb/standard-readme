@@ -88,6 +88,11 @@ progressively greater amount of knowledge."
 
 **Suggestions:**
 - May capture third and fourth depth headings. If it is a long ToC, these are optional.
+- Several tools exist to quickly create a ToC from a README.MD:
+  - On the web: [DocToc Web](http://doctoc.herokuapp.com/)
+  - Command line tools:
+    - [DocToc](https://github.com/thlorenz/doctoc)
+    - [GitHub Markdown ToC](https://github.com/ekalinin/github-markdown-toc)
 
 ### Security
 **Status**: Optional.
